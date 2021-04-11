@@ -1,0 +1,117 @@
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+    background-image: url('train.jpg');
+  background-size:cover;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+.container {
+  max-width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+
+  .container1
+   {
+     width:300px;
+     height:560px;
+     margin:auto;
+     border-radius:25px;
+     background-color: rgba(0,0,225,0.5);
+     
+     
+   }
+   
+header {
+  height: 65px;
+  width: 100%;
+  background-color: rgb(0, 0, 128);
+  position :fixed;
+  top: 0;
+  z-index: 10;
+}
+
+.logo {
+ height:90px;
+  width: 90px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+margin-left:-100px;
+}
+
+.header-left {
+  float: left;
+  width: 100px;
+}
+
+.header-right {
+  float: right;
+  margin-right: -25px;
+}
+
+.header-right a {
+  line-height: 65px;
+  padding: 0 25px;
+  color: white;
+  display: block;
+  float: left;
+  transition: all 0.5s;
+}
+
+.header-right a:hover {
+  background-color: rgba(80, 71, 71, 0.3);
+}
+
+
+ .form
+ {
+     color: white;
+   text-align: center;
+ }
+
+ .btn
+ {
+    cursor:pointer;
+     border-radius:25px;
+ }
+
+ .btn2
+ {
+    cursor:pointer;
+     border-radius:25px;
+ }
+ .btn3
+ {
+    cursor:pointer;
+     border-radius:25px;
+ }
+
+.top1
+ {
+   
+     width:15%;
+     height:50px;
+     margin:auto;
+     border-radius:25px;
+     
+ }
+
+
+ h1 {
+   color: blue;
+   text-align: center;
+ }
+
+
+ input
+ {
+     width:180px;height:20px;
+     border-radius:25px;
+ 
+ }
