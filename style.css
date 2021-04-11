@@ -1,8 +1,9 @@
 body {
   margin: 0;
-  font-family: "Lucida Grande";
+  font-family: "sans-serif";
     background-image: url('train.jpg');
   background-size:cover;
+  background-repeat: no-repeat;
 }
 
 a {
