@@ -1,9 +1,10 @@
 body {
   margin: 0;
-  font-family: "sans-serif";
     background-image: url('train.jpg');
+    background-repeat: no-repeat;
   background-size:cover;
-  background-repeat: no-repeat;
+    font-family: "sans-serif";
+  
 }
 
 a {
