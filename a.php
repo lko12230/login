@@ -26,7 +26,7 @@
     }
        if(isset($_POST['register']))
        {
-        header("Location: https://lko12230.github.io/register/");
+        header("Location: http://localhost/register/");
        }
     
 ?>  
