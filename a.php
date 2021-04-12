@@ -24,5 +24,21 @@
             header("Location: https://lko12230.github.io/login/");
        }   
     }
+ if(isset($_POST['login']))
+       {
+        header("Location: https://lko12230.github.io/login/");
+       }
+ if(isset($_POST['forgot']))
+       {
+        header("Location: https://lko12230.github.io/forgot/");
+       }
+       if(isset($_POST['register']))
+       {
+        header("Location: https://lko12230.github.io/register//");
+       }
+       if(isset($_POST['contact']))
+       {
+        header("Location: http://localhost/support/");
+       }
 
 ?>  
