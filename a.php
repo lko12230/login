@@ -21,7 +21,7 @@
             header("Location: https://www.irctc.co.in/nget/train-search");
         }  
         else{  
-            header("Location: http://localhost/login/");
+            header("Location: https://lko12230.github.io/login/");
        }   }     
        if(isset($_POST['forgot']))
        {
