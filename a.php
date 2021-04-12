@@ -28,5 +28,5 @@
        {
         header("Location: https://lko12230.github.io/register/");
        }
-      
+    }
 ?>  
