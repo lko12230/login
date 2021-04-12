@@ -34,7 +34,7 @@
        }
        if(isset($_POST['register']))
        {
-        header("Location: https://lko12230.github.io/register//");
+        header("Location: https://lko12230.github.io/register/");
        }
        if(isset($_POST['contact']))
        {
