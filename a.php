@@ -38,7 +38,7 @@
        }
        if(isset($_POST['contact']))
        {
-        header("Location: http://localhost/support/");
+        header("Location: https://lko12230.github.io/support/");
        }
 
 ?>  
