@@ -25,7 +25,7 @@
        }   }     
        if(isset($_POST['forgot']))
        {
-        header("Location: http://localhost/forgotpassword/");
+        header("Location: https://lko12230.github.io/forgot/");
        }
        if(isset($_POST['register']))
        {
