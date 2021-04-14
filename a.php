@@ -21,24 +21,18 @@
             header("Location: https://www.irctc.co.in/nget/train-search");
         }  
         else{  
-            header("Location: https://lko12230.github.io/login/");
-       }   
-    }
-       if(isset($_POST['login']))
-       {
-        header("Location: https://lko12230.github.io/login/");
-       }
+            header("Location: http://localhost/login/");
+       }   }     
        if(isset($_POST['forgot']))
        {
-        header("Location: https://lko12230.github.io/forgot/");
+        header("Location: http://localhost/forgotpassword/");
        }
        if(isset($_POST['register']))
        {
-        header("Location: https://lko12230.github.io/register/");
+        header("Location: http://localhost/register/");
        }
        if(isset($_POST['contact']))
        {
-        header("Location: https://lko12230.github.io/support/");
+        header("Location: http://localhost/support/");
        }
-
 ?>  
